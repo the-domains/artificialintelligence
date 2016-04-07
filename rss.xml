@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[artificialintelligence]]></title>
+        <description><![CDATA[artificialintelligence]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 07 Apr 2016 20:16:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Robots Will Steal Our Jobs, But They'll Give Us New Ones]]></title>
+            <description><![CDATA[<article><h1>Robots Will Steal Our Jobs, But They'll Give Us New Ones</h1><p>At the Dusseldorf airport, robotic valet parking is now reality. You step out of your car. You press a button on a touch screen. And then a machine lifts your car off the ground, moving all three tons of it into a kind of aerial parking bay.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/50eeb4584eaaa7b0dc7949e53e992badfb0a34ce.jpg"></article>]]></description>
+            <link>http://www.wired.com/2015/08/robots-will-steal-jobs-theyll-give-us-new-ones/</link>
+            <guid isPermaLink="false">958931ea-77e0-49ea-a429-081ff5e54c15</guid>
+            <pubDate>Thu, 07 Apr 2016 20:16:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
