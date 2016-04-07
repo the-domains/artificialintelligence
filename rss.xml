@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[artificialintelligence]]></title>
         <description><![CDATA[artificialintelligence]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/artificialintelligence/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 20:16:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Apr 2016 20:19:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/artificialintelligence/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Robots Will Steal Our Jobs, But They'll Give Us New Ones]]></title>
             <description><![CDATA[<article><h1>Robots Will Steal Our Jobs, But They'll Give Us New Ones</h1><p>At the Dusseldorf airport, robotic valet parking is now reality. You step out of your car. You press a button on a touch screen. And then a machine lifts your car off the ground, moving all three tons of it into a kind of aerial parking bay.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/50eeb4584eaaa7b0dc7949e53e992badfb0a34ce.jpg"></article>]]></description>
             <link>http://www.wired.com/2015/08/robots-will-steal-jobs-theyll-give-us-new-ones/</link>
             <guid isPermaLink="false">958931ea-77e0-49ea-a429-081ff5e54c15</guid>
             <pubDate>Thu, 07 Apr 2016 20:16:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bill Gates and Elon Musk are wrong: Artificial intelligence is not going to take over the world]]></title>
+            <description><![CDATA[<article><h1>Bill Gates and Elon Musk are wrong: Artificial intelligence is not going to take over the world</h1><p>This article originally appeared on AlterNet. There's been a lot of chatter in the past year about the menace of artificial intelligence. This summer's movie season offered four films featuring major AI characters, most recently Terminator Genisys, but also Avengers: Age of Ultron, Ex Machina, and Chappie.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/84709095fdd6be5803c1ede5c3189ba7bf560aa6.jpg"></article>]]></description>
+            <link>http://www.salon.com/2015/10/15/calm_down_artificial_intelligence_is_not_going_to_take_over_the_world_partner/</link>
+            <guid isPermaLink="false">51903238-ca10-42f9-9304-7f25bc56fb27</guid>
+            <pubDate>Thu, 07 Apr 2016 20:19:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
