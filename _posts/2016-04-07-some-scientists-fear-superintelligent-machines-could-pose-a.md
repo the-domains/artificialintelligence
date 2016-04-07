@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.washingtonpost.com/sf/national/2015/12/27/aianxiety/'
 title: Some scientists fear superintelligent machines could pose a threat to humanity
-datePublished: '2016-04-07T20:20:31.861Z'
-dateModified: '2016-04-07T19:47:33.715Z'
+datePublished: '2016-04-07T20:20:32.020Z'
+dateModified: '2016-04-05T20:53:38.720Z'
 sourcePath: _posts/2016-04-07-some-scientists-fear-superintelligent-machines-could-pose-a.md
 published: true
 inFeed: true
