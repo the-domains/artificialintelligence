@@ -4,7 +4,7 @@
         <description><![CDATA[artificialintelligence]]></description>
         <link>https://thegrid.ai/artificialintelligence/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 20:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2016 20:20:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/artificialintelligence/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Robots Will Steal Our Jobs, But They'll Give Us New Ones]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.wired.com/2015/08/robots-will-steal-jobs-theyll-give-us-new-ones/</link>
             <guid isPermaLink="false">958931ea-77e0-49ea-a429-081ff5e54c15</guid>
             <pubDate>Thu, 07 Apr 2016 20:16:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Machine Intelligence In The Real World]]></title>
+            <description><![CDATA[<article><h1>Machine Intelligence In The Real World</h1><p>I've been laser-focused on machine intelligence in the past few years. I've talked to hundreds of entrepreneurs, researchers and investors about helping machines make us smarter. In the months since I shared my landscape of machine intelligence companies, folks keep asking me what I think of them - as if they're all doing more or less the same thing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5de2b4c1b36810971f0dedf367ac4c733893a0c0.jpg"></article>]]></description>
+            <link>http://techcrunch.com/2015/11/26/machine-intelligence-in-the-real-world/</link>
+            <guid isPermaLink="false">5852d6c0-f7f6-41e9-aeb1-d4831189ce46</guid>
+            <pubDate>Thu, 07 Apr 2016 20:19:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MIT uses artificial intelligence to predict online learning drop outs | ZDNet]]></title>
