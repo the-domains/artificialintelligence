@@ -4,7 +4,7 @@
         <description><![CDATA[artificialintelligence]]></description>
         <link>https://thegrid.ai/artificialintelligence/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 20:21:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2016 20:21:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/artificialintelligence/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Robots Will Steal Our Jobs, But They'll Give Us New Ones]]></title>
@@ -12,20 +12,6 @@
             <link>http://www.wired.com/2015/08/robots-will-steal-jobs-theyll-give-us-new-ones/</link>
             <guid isPermaLink="false">958931ea-77e0-49ea-a429-081ff5e54c15</guid>
             <pubDate>Thu, 07 Apr 2016 20:16:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google's Artificial Intelligence Speaks, and She's a Woman]]></title>
-            <description><![CDATA[<article><h1>Google's Artificial Intelligence Speaks, and She's a Woman</h1><p>Stephen Hawking is a theoretical physicist, cosmologist, author, and all around academic bad ass. There's no doubt in my mind that he's one of the smartest human beings to ever exist. You already knew that though. What you maybe didn't know is that he's incredibly wary of artificial intelligence (AI).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1054cbc5cfe4402580fbbddf46098cfc93a3cf06.jpg"></article>]]></description>
-            <link>http://tech.co/stephen-hawking-ai-danger-2015-07</link>
-            <guid isPermaLink="false">70419758-b253-4dcc-bcc7-4b3036da2400</guid>
-            <pubDate>Thu, 07 Apr 2016 20:20:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://media.giphy.com/media/4yrXiUTCzPTeE/giphy.gif">]]></description>
-            <link>https://thegrid.ai/artificialintelligence/c2943dd4-ec14-4ba4-bc8b-03cb5d5090a6/index.html</link>
-            <guid isPermaLink="false">c2943dd4-ec14-4ba4-bc8b-03cb5d5090a6</guid>
-            <pubDate>Thu, 07 Apr 2016 20:20:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Getting Smarter| Dan Falk | Spring 2016 | University of Toronto Magazine]]></title>
@@ -75,6 +61,20 @@
             <link>http://techcrunch.com/2016/01/07/is-app-improvement-ai-the-future-of-web-development/</link>
             <guid isPermaLink="false">acd04717-89ad-4387-ab06-23094b9d9fd6</guid>
             <pubDate>Thu, 07 Apr 2016 20:20:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Could artificial intelligence lose its mind?]]></title>
+            <description><![CDATA[<article><h1>Could artificial intelligence lose its mind?</h1><p>Google's DeepDream provides an unsettling glimpse of a machine's "thinking." Leonid Bershidsky, Bloomberg&nbsp|&nbsp26 July 2015&nbsp14:20 The DeepDream algorithm Google made public this month is a strange offshoot of image recognition technology based on artificial intelligence. It can turn mundane images into hallucinatory worlds, and has spawned sites where you can have photos processed with the software and even a mobile app.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4f52d510073b485caab9c7c1998419213d478719.jpg"></article>]]></description>
+            <link>http://www.moneyweb.co.za/news-fast-news/could-artificial-intelligence-lose-its-mind/</link>
+            <guid isPermaLink="false">55c244d2-3de9-4e31-a6f8-5d261b2bd171</guid>
+            <pubDate>Thu, 07 Apr 2016 20:19:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Machine Intelligence In The Real World]]></title>
+            <description><![CDATA[<article><h1>Machine Intelligence In The Real World</h1><p>I've been laser-focused on machine intelligence in the past few years. I've talked to hundreds of entrepreneurs, researchers and investors about helping machines make us smarter. In the months since I shared my landscape of machine intelligence companies, folks keep asking me what I think of them - as if they're all doing more or less the same thing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5de2b4c1b36810971f0dedf367ac4c733893a0c0.jpg"></article>]]></description>
+            <link>http://techcrunch.com/2015/11/26/machine-intelligence-in-the-real-world/</link>
+            <guid isPermaLink="false">5852d6c0-f7f6-41e9-aeb1-d4831189ce46</guid>
+            <pubDate>Thu, 07 Apr 2016 20:19:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
