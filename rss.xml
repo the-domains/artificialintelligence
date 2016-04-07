@@ -4,7 +4,7 @@
         <description><![CDATA[artificialintelligence]]></description>
         <link>https://thegrid.ai/artificialintelligence/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 20:21:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2016 20:21:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/artificialintelligence/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Robots Will Steal Our Jobs, But They'll Give Us New Ones]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.wired.com/2015/08/robots-will-steal-jobs-theyll-give-us-new-ones/</link>
             <guid isPermaLink="false">958931ea-77e0-49ea-a429-081ff5e54c15</guid>
             <pubDate>Thu, 07 Apr 2016 20:16:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Some scientists fear superintelligent machines could pose a threat to humanity]]></title>
+            <description><![CDATA[<article><h1>Some scientists fear superintelligent machines could pose a threat to humanity</h1><p>Superintelligence hasn't yet arrived, but clever, interactive robots have. Roboticist Cynthia Breazeal of MIT is the human mind behind a social robot, named Jibo, that is embedded with artificial intelligence software and sensors to enable it to recognize, and interact with, multiple people at once. Breazeal said Jibo will become commercially available in early 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/24a076db44d586c074c0ef4c311c3dff9afef867.jpg"></article>]]></description>
+            <link>http://www.washingtonpost.com/sf/national/2015/12/27/aianxiety/</link>
+            <guid isPermaLink="false">8a458538-c276-489a-baa6-f399c2336340</guid>
+            <pubDate>Thu, 07 Apr 2016 20:20:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[It's Your Fault Microsoft's Teen AI Turned Into Such a Jerk]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>MIT uses artificial intelligence to predict online learning drop outs | ZDNet</h1><p>MIT said it has begun using artificial intelligence and big data techniques to better predict which students will drop out from open online courses. The news, which was detailed at a conference on artificial intelligence in education last week, is notable for a few reasons.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c7128a8039ad89ca85af3f214e60a6d0c0ea2890.jpg"></article>]]></description>
             <link>http://www.zdnet.com/article/mit-uses-artificial-intelligence-to-predict-online-learning-drop-outs/</link>
             <guid isPermaLink="false">6f379e94-1868-4e81-affb-6869666b7e24</guid>
-            <pubDate>Thu, 07 Apr 2016 20:19:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bill Gates and Elon Musk are wrong: Artificial intelligence is not going to take over the world]]></title>
-            <description><![CDATA[<article><h1>Bill Gates and Elon Musk are wrong: Artificial intelligence is not going to take over the world</h1><p>This article originally appeared on AlterNet. There's been a lot of chatter in the past year about the menace of artificial intelligence. This summer's movie season offered four films featuring major AI characters, most recently Terminator Genisys, but also Avengers: Age of Ultron, Ex Machina, and Chappie.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/84709095fdd6be5803c1ede5c3189ba7bf560aa6.jpg"></article>]]></description>
-            <link>http://www.salon.com/2015/10/15/calm_down_artificial_intelligence_is_not_going_to_take_over_the_world_partner/</link>
-            <guid isPermaLink="false">51903238-ca10-42f9-9304-7f25bc56fb27</guid>
             <pubDate>Thu, 07 Apr 2016 20:19:47 GMT</pubDate>
         </item>
     </channel>
