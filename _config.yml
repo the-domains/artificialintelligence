@@ -1,6 +1,6 @@
 name: artificialintelligence
 favicon: null
-layout_spectrum: 0.56625
+layout_spectrum: 0.40583
 typography_spectrum: 0.29665179806761444
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#709f8f'
     - '#b8aa8f'
     - '#b68b58'
-  brandStrength: 1
-  lightness: 0.02060110680758953
-  saturation: 0.6170333928894252
-  rhythmicContrast: 0.8700149185024202
+  brandStrength: 0
+  lightness: 0.75
+  saturation: 0.625
+  rhythmicContrast: 1
 purpose: []
