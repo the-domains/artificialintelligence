@@ -1,4 +1,6 @@
 typography_spectrum: 0.85915
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#e5e8cb'
