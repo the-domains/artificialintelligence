@@ -1,19 +1,4 @@
-name: artificialintelligence
-favicon: null
-layout_spectrum: 0.31345
 typography_spectrum: 0.85915
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#e5e8cb'
@@ -25,4 +10,19 @@ color:
   lightness: 0.75
   saturation: 0.625
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.31345
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: artificialintelligence
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec8c8c4f-1507-495d-80d0-54abd3e4fd54.png'
 purpose: []
