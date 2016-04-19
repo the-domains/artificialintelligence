@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[artificialintelligence]]></title>
-        <description><![CDATA[artificialintelligence]]></description>
+        <title><![CDATA[A.I. Is Taking Over The World]]></title>
+        <description><![CDATA[A.I. Is Taking Over The World]]></description>
         <link>https://thegrid.ai/artificialintelligence/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 17:40:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2016 04:21:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/artificialintelligence/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Robots Will Steal Our Jobs, But They'll Give Us New Ones]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.wired.com/2015/08/robots-will-steal-jobs-theyll-give-us-new-ones/</link>
             <guid isPermaLink="false">958931ea-77e0-49ea-a429-081ff5e54c15</guid>
             <pubDate>Thu, 07 Apr 2016 20:16:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Philosophical Argument Against A.I. Killing Us All]]></title>
+            <description><![CDATA[<article><h1>The Philosophical Argument Against A.I. Killing Us All</h1><p>Some people think A.I. will kill us off. In his 2014 book Superintelligence , Oxford philosopher Nick Bostrom offers several doomsday scenarios. One is that an A.I. might "tile all of the Earth's surface with solar panels, nuclear reactors, supercomputing facilities with protruding cooling towers, space rocket launchers, or other installations whereby the AI intends to maximize the long-term cumulative realization of its values."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4095854d45b1395ed4f2153286c796e57557f54a.jpg"></article>]]></description>
+            <link>http://www.slate.com/articles/technology/future_tense/2016/04/the_philosophical_argument_against_artificial_intelligence_killing_us_all.html</link>
+            <guid isPermaLink="false">73398b15-276c-428e-860c-3d8d93f847ef</guid>
+            <pubDate>Tue, 19 Apr 2016 04:20:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Researchers Are Studying How They Can Achieve Matrix-Level Immersion in Virtual Reality]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Intuition algorithms outperforms human teams</h1><p>Humans may take months to develop predictive algorithms for big-data analysis Data Science Machine would eliminate human intuition but cut time out of the process, completing the same tasks in a matter of hours Machine outperformed over 600 human teams in three competitions Computers could soon replace human intuition in many areas - and a new system developed at MIT has shown it can outperform even the smartest of people.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6738f72e683f2a83ee12953a1882fb1dbe8a793.jpg"></article>]]></description>
             <link>http://www.dailymail.co.uk/sciencetech/article-3276604/Artificial-intelligence-breakthrough-intuition-algorithm-beats-humans-data-test.html</link>
             <guid isPermaLink="false">83c8c4ef-764c-491b-8e5a-835261c71e64</guid>
-            <pubDate>Thu, 07 Apr 2016 20:20:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IBM Creates 'Neuromorphic Chip' That Is As Powerful As A Rodent's Brain]]></title>
-            <description><![CDATA[<article><h1>IBM Creates 'Neuromorphic Chip' That Is As Powerful As A Rodent's Brain</h1><p>Since 2008, IBM has been working with the Systems of Neuromorphic Adaptive Plastic Scalable Electronics, or SyNAPSE. The company just announced the system to the public after years of development as a part of a three-week "boot camp" teaching session aimed at government and academic researchers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c62fb1899d32923672f69970b68563c2cfbbad62.jpg"></article>]]></description>
-            <link>http://www.techtimes.com/articles/77610/20150818/ibm-creates-neuromorphic-chip-powerful-rodents-brain.htm</link>
-            <guid isPermaLink="false">88102c71-7eab-4dde-919f-76057f7393af</guid>
             <pubDate>Thu, 07 Apr 2016 20:20:31 GMT</pubDate>
         </item>
     </channel>
