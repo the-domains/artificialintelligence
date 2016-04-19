@@ -4,7 +4,7 @@
         <description><![CDATA[A.I. Is Taking Over The World]]></description>
         <link>https://thegrid.ai/artificialintelligence/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 04:21:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2016 04:21:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/artificialintelligence/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Robots Will Steal Our Jobs, But They'll Give Us New Ones]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.wired.com/2015/08/robots-will-steal-jobs-theyll-give-us-new-ones/</link>
             <guid isPermaLink="false">958931ea-77e0-49ea-a429-081ff5e54c15</guid>
             <pubDate>Thu, 07 Apr 2016 20:16:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Elon Musk on civilisation's biggest threats (2014.1.21)]]></title>
+            <description><![CDATA[<article><h1>Elon Musk on civilisation's biggest threats (2014.1.21)</h1><p>MUST WATCH] Elon Musk touches on some big subjects and what he views are civilisation's biggest threats in this short and very interesting interview. Overview: 00:00. Intro 03:07. Innovations of the future & high-speed transport 05:25. Becoming multi-planetary 07:38. Evolution of communication 08:50. Low birth rates is alarming 12:10. AI...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e6a9151552992d6dfa0b59c6d576b0ae0386f7fc.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=WtRr_dQYUg0</link>
+            <guid isPermaLink="false">ee4645f1-277f-40d5-835e-814f4030123e</guid>
+            <pubDate>Tue, 19 Apr 2016 04:20:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Philosophical Argument Against A.I. Killing Us All]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Some scientists fear superintelligent machines could pose a threat to humanity</h1><p>Superintelligence hasn't yet arrived, but clever, interactive robots have. Roboticist Cynthia Breazeal of MIT is the human mind behind a social robot, named Jibo, that is embedded with artificial intelligence software and sensors to enable it to recognize, and interact with, multiple people at once. Breazeal said Jibo will become commercially available in early 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/24a076db44d586c074c0ef4c311c3dff9afef867.jpg"></article>]]></description>
             <link>http://www.washingtonpost.com/sf/national/2015/12/27/aianxiety/</link>
             <guid isPermaLink="false">a9709101-da82-42ef-9717-0fa1dedadb7d</guid>
-            <pubDate>Thu, 07 Apr 2016 20:20:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Intuition algorithms outperforms human teams]]></title>
-            <description><![CDATA[<article><h1>Intuition algorithms outperforms human teams</h1><p>Humans may take months to develop predictive algorithms for big-data analysis Data Science Machine would eliminate human intuition but cut time out of the process, completing the same tasks in a matter of hours Machine outperformed over 600 human teams in three competitions Computers could soon replace human intuition in many areas - and a new system developed at MIT has shown it can outperform even the smartest of people.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6738f72e683f2a83ee12953a1882fb1dbe8a793.jpg"></article>]]></description>
-            <link>http://www.dailymail.co.uk/sciencetech/article-3276604/Artificial-intelligence-breakthrough-intuition-algorithm-beats-humans-data-test.html</link>
-            <guid isPermaLink="false">83c8c4ef-764c-491b-8e5a-835261c71e64</guid>
             <pubDate>Thu, 07 Apr 2016 20:20:31 GMT</pubDate>
         </item>
     </channel>
