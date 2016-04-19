@@ -1,22 +1,6 @@
-name: artificialintelligence
-favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f1ff323-c59e-41f6-8c83-0bbdd382eb0e.jpg'
-layout_spectrum: 0.38824
 typography_spectrum: 1
 content_rating:
   adult: false
-title: A.I. Is Taking Over The World
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#e5e8cb'
@@ -28,4 +12,20 @@ color:
   lightness: 0.875
   saturation: 1
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.38824
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: artificialintelligence
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f1ff323-c59e-41f6-8c83-0bbdd382eb0e.jpg'
+title: A.I. Is Taking Over The World
 purpose: []
