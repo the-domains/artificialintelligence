@@ -4,7 +4,7 @@
         <description><![CDATA[A.I. Is Taking Over The World]]></description>
         <link>https://thegrid.ai/artificialintelligence/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 20:50:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 08:12:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/artificialintelligence/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Entering Godmode]]></title>
@@ -19,6 +19,13 @@
             <link>http://www.wired.com/2015/08/robots-will-steal-jobs-theyll-give-us-new-ones/</link>
             <guid isPermaLink="false">958931ea-77e0-49ea-a429-081ff5e54c15</guid>
             <pubDate>Thu, 07 Apr 2016 20:16:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alibaba Affiliate Ant Financial Raises $4.5 Billion in Largest Private Tech Funding Round]]></title>
+            <description><![CDATA[<article><h1>Alibaba Affiliate Ant Financial Raises $4.5 Billion in Largest Private Tech Funding Round</h1><p>Ant Financial Services Group, the financial-services affiliate of e-commerce giant Alibaba Group Holding Ltd., closed the world's largest private fundraising round for an Internet company at $4.5 billion, giving it a roughly $60 billion valuation.</p><img src="https://si.wsj.net/public/resources/images/BN-NS583_0426AI_G_20160426113935.jpg"></article>]]></description>
+            <link>http://www.wsj.com/articles/alibaba-affiliate-ant-financial-raises-4-5-billion-in-largest-private-tech-funding-round-globally-1461642246?mod=WSJ_TechWSJD_NeedToKnow</link>
+            <guid isPermaLink="false">0379bd59-d998-4917-9e75-4e71454ecaac</guid>
+            <pubDate>Wed, 27 Apr 2016 08:10:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Elon Musk on civilisation's biggest threats (2014.1.21)]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.washingtonpost.com/sf/national/2015/12/27/aianxiety/</link>
             <guid isPermaLink="false">8a458538-c276-489a-baa6-f399c2336340</guid>
             <pubDate>Thu, 07 Apr 2016 20:20:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[It's Your Fault Microsoft's Teen AI Turned Into Such a Jerk]]></title>
-            <description><![CDATA[<article><h1>It's Your Fault Microsoft's Teen AI Turned Into Such a Jerk</h1><p>It was the unspooling of an unfortunate series of events involving artificial intelligence, human nature, and a very public experiment. Amid this dangerous combination of forces, determining exactly what went wrong is near-impossible.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ca06154c9571a3d3e3719619d1f48321825eb61.jpg"></article>]]></description>
-            <link>http://www.wired.com/2016/03/fault-microsofts-teen-ai-turned-jerk/</link>
-            <guid isPermaLink="false">c8609b5e-a69c-4ed9-8df8-ad0d253be77c</guid>
-            <pubDate>Thu, 07 Apr 2016 20:20:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
