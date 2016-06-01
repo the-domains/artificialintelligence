@@ -1,14 +1,6 @@
 ---
-author:
-  - name: Sarah Buhr
-    url: 'http://techcrunch.com/author/sarah-buhr/'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://techcrunch.com'
-  name: TechCrunch
-  favicon: 'https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/favicon.ico'
-  domain: techcrunch.com
+datePublished: '2016-06-01T16:34:49.967Z'
+isBasedOnUrl: 'http://techcrunch.com/2016/06/01/first-look-lifebeams-artificially-intelligent-headphones-for-that-her-like-workout/'
 keywords:
   - headphones
   - yoffe
@@ -20,17 +12,25 @@ keywords:
   - rate
   - adapt
   - body
-description: "Wearable technology company LifeBEAM has powered products for the Israeli air force and brands like Under Armour and Samsung. It's now making its own product - wireless, artificially intelligent headphones. What does that mean, exactly? Co-founder Omri Yoffe says the new \"hearables,\" as he refers to these types of headphones, come with the ability to self-learn as you workout."
-inLanguage: en
+related: []
+author:
+  - name: Sarah Buhr
+    url: 'http://techcrunch.com/author/sarah-buhr/'
+    avatar: {}
+dateModified: '2016-06-01T16:34:49.907Z'
+title: "First look: LifeBEAM's artificially intelligent headphones offer a \"Her\" workout"
 app_links:
   - path: http/techcrunch.com/2016/06/01/first-look-lifebeams-artificially-intelligent-headphones-for-that-her-like-workout/
     package: com.aol.mobile.techcrunch
     namespace: google
     type: android
-isBasedOnUrl: 'http://techcrunch.com/2016/06/01/first-look-lifebeams-artificially-intelligent-headphones-for-that-her-like-workout/'
-title: "First look: LifeBEAM's artificially intelligent headphones offer a \"Her\" workout"
-datePublished: '2016-06-01T16:26:58.254Z'
-dateModified: '2016-06-01T16:26:48.449Z'
+publisher:
+  url: 'http://techcrunch.com'
+  name: TechCrunch
+  favicon: 'https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/favicon.ico'
+  domain: techcrunch.com
+description: "Wearable technology company LifeBEAM has powered products for the Israeli air force and brands like Under Armour and Samsung. It's now making its own product - wireless, artificially intelligent headphones. What does that mean, exactly? Co-founder Omri Yoffe says the new \"hearables,\" as he refers to these types of headphones, come with the ability to self-learn as you workout."
+inLanguage: en
 starred: false
 sourcePath: _posts/2016-06-01-first-look-lifebeams-artificially-intelligent-headphones-o.md
 inFeed: true
@@ -40,4 +40,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>First look: LifeBEAM's artificially intelligent headphones offer a "Her" workout</h1><p>Wearable technology company LifeBEAM has powered products for the Israeli air force and brands like Under Armour and Samsung. It's now making its own product - wireless, artificially intelligent headphones. What does that mean, exactly? Co-founder Omri Yoffe says the new "hearables," as he refers to these types of headphones, come with the ability to self-learn as you workout.</p><img src="https://tctechcrunch2011.files.wordpress.com/2016/05/dsc00354.jpg?w=764&amp;h=400&amp;crop=1" /></article>
+<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/436e7e7c-6b16-48fd-b6be-a4c1d4a6556e.jpg" /><h1>First look: LifeBEAM's artificially intelligent headphones offer a "Her" workout</h1><p>Wearable technology company LifeBEAM has powered products for the Israeli air force and brands like Under Armour and Samsung. It's now making its own product - wireless, artificially intelligent headphones. What does that mean, exactly? Co-founder Omri Yoffe says the new "hearables," as he refers to these types of headphones, come with the ability to self-learn as you workout.</p></article>
