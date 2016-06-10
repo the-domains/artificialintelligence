@@ -41,14 +41,14 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.wired.com/2015/08/robots-will-steal-jobs-theyll-give-us-new-ones/'
 title: 'Robots Will Steal Our Jobs, But They''ll Give Us New Ones'
-datePublished: '2016-06-10T16:28:46.894Z'
-dateModified: '2016-06-10T16:28:46.661Z'
+datePublished: '2016-06-10T16:28:50.351Z'
+dateModified: '2016-06-10T16:28:50.145Z'
 inFeed: true
 hasPage: false
 inNav: false
 authors: []
 sourcePath: _posts/2016-04-07-robots-will-steal-our-jobs-but-theyll-give-us-new-ones.md
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
