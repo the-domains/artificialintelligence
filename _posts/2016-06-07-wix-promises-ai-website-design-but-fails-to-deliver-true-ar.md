@@ -32,11 +32,11 @@ isBasedOnUrl: >-
 title: >-
   Wix promises AI website design, but fails to deliver true artificial
   intelligence
-datePublished: '2016-06-10T16:28:47.616Z'
-dateModified: '2016-06-10T16:28:47.445Z'
+datePublished: '2016-06-10T16:28:48.253Z'
+dateModified: '2016-06-10T16:28:48.084Z'
 sourcePath: >-
   _posts/2016-06-07-wix-promises-ai-website-design-but-fails-to-deliver-true-ar.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
