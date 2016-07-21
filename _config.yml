@@ -1,8 +1,8 @@
 name: artificial intelligence
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f1ff323-c59e-41f6-8c83-0bbdd382eb0e.jpg
-layout_spectrum: 0.19922
-typography_spectrum: 0.65334
+layout_spectrum: 0.05343850841745734
+typography_spectrum: 0.5963459978811443
 title: A.I. Is Taking Over The World
 collections:
   - index:
@@ -32,13 +32,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ddb541'
-    - '#e6e2d3'
-    - '#40201c'
-    - '#884420'
-    - '#41564e'
-  brandStrength: 1
-  lightness: 0.125
-  saturation: 0.625
-  rhythmicContrast: 1
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  brandStrength: 0.09691994800232351
+  lightness: 0.42557237786240876
+  saturation: 0.010985191212967038
+  rhythmicContrast: 0.925470958231017
 purpose: []
