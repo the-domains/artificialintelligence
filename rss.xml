@@ -4,7 +4,7 @@
         <description><![CDATA[A.I. Is Taking Over The World]]></description>
         <link>https://thegrid.ai/artificialintelligence/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 20:32:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2016 01:28:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/artificialintelligence/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Robots Will Steal Our Jobs, But They'll Give Us New Ones]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.wired.com/2015/08/robots-will-steal-jobs-theyll-give-us-new-ones/</link>
             <guid isPermaLink="false">958931ea-77e0-49ea-a429-081ff5e54c15</guid>
             <pubDate>Fri, 10 Jun 2016 16:28:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Google's Open Source AI Engine, TensorFlow, Points to a Fast-Changing Hardware World]]></title>
+            <description><![CDATA[<article><h1>Google's Open Source AI Engine, TensorFlow, Points to a Fast-Changing Hardware World</h1><p>In open sourcing its artificial intelligence engine-freely sharing one of its most important creations with the rest of the Internet- Google showed how the world of computer software is changing. These days, the big Internet giants frequently share the software sitting at the heart of their online operations.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9fe0b5892c256943f087d147ed06a4a623ec368a.jpg"></article>]]></description>
+            <link>http://www.wired.com/2015/11/googles-open-source-ai-tensorflow-signals-fast-changing-hardware-world/</link>
+            <guid isPermaLink="false">9ff0d1d3-2f7e-49c0-b2db-1bbe98de437c</guid>
+            <pubDate>Fri, 12 Aug 2016 01:28:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Peek Into the Weird and Wonderful Age of AI (Yes, There's a Chatbot)]]></title>
